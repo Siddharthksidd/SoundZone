@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SoundZone/static/css/main.18180991.css",
+    "main.js": "/SoundZone/static/js/main.b956d728.js",
+    "index.html": "/SoundZone/index.html",
+    "main.18180991.css.map": "/SoundZone/static/css/main.18180991.css.map",
+    "main.b956d728.js.map": "/SoundZone/static/js/main.b956d728.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18180991.css",
+    "static/js/main.b956d728.js"
+  ]
+}
