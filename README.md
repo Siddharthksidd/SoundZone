@@ -4,6 +4,8 @@ Frontend Audio Store eCommerce Website, built with React JS.
 
 where we can browse through products add them to the cart, search for the products, delete them from cart, sort and filter the products. viww each product's additional product information and spec.
 
+- Live Site URL: [https://soundzone-248e1.web.app/]
+
 ## Technologies used
 
 - React
@@ -35,36 +37,36 @@ All the above features are managed mainly through React Context Api and React Ro
 
 ##### Home page
 
-![SoundZone-desktop home page](image.png)
+![SoundZone-desktop home page](Screenshots/image.png)
 
 ##### Featured products
 
-![SoundZone-desktop Featured products](image-1.png)
+![SoundZone-desktop Featured products](Screenshots/image-1.png)
 
 ##### Top products
 
-![SoundZone-desktop Top products based on catogery](image-2.png)
+![SoundZone-desktop Top products based on catogery](Screenshots/image-2.png)
 
 ##### All Products Sorting and Filtering
 
-![SoundZone-desktop All Products Sorting and Filtering](image-3.png)
+![SoundZone-desktop All Products Sorting and Filtering](Screenshots/image-3.png)
 
 ##### Products Detail Page
 
-![SoundZone-desktop Products Detail Page](image-4.png)
-![SoundZone-desktop Products Detail Page](image-5.png)
+![SoundZone-desktop Products Detail Page](Screenshots/image-4.png)
+![SoundZone-desktop Products Detail Page](Screenshots/image-5.png)
 
 ##### Cart Page
 
-![SoundZone-desktop Cart Page](image-6.png)
+![SoundZone-desktop Cart Page](Screenshots/image-6.png)
 
 #### Mobile responsive
 
-![Mobile responsive](image-8.png)
+![Mobile responsive](Screenshots/image-8.png)
 
 ### Links
 
-- Live Site URL: []
+- Live Site URL: [https://soundzone-248e1.web.app/]
 
 ## Built with
 

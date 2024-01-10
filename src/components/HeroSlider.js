@@ -36,8 +36,9 @@ const HeroSlider = () => {
                     return (
                         <SwiperSlide
                             key={id}
+                            className={`wrapper hero_wrapper hero_slide-${i}`}
                         >
-                            <div className={`wrapper hero_wrapper hero_slide-${i}`}>
+                            {/* <div className={`wrapper hero_wrapper hero_slide-${i}`}> */}
                             <div className="hero_item_txt">
                                 <h3>{title}</h3>
                                 <h1>{tagline}</h1>
@@ -50,7 +51,7 @@ const HeroSlider = () => {
                             <figure className="hero_item_img">
                                 <img src={heroImage} alt="product-img" />
                             </figure>
-                            </div>
+                            {/* </div> */}
                         </SwiperSlide>
                     );
                 })
