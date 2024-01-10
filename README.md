@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# [SoundZone]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Frontend Audio Store eCommerce Website, built with React JS.
 
-## Available Scripts
+where we can browse through products add them to the cart, search for the products, delete them from cart, sort and filter the products. viww each product's additional product information and spec.
 
-In the project directory, you can run:
+## Technologies used
 
-### `npm start`
+- React
+- React Swiper
+- React Router
+- React context API (for state management)
+- javascript
+- CSS
+- HTML
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Built with](#built-with)
 
-### `npm test`
+## Overview
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This is a frontend ecommerce web application created with React.
 
-### `npm run build`
+The ecommerce website is based on audio products. The products can be viewed in detail, browsed by sorting and filtering based on brand, category, price, toprated, featured. They can be added and removed from cart.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+All the above features are managed mainly through React Context Api and React Router.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Screenshots
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Desktop images
 
-### `npm run eject`
+##### Home page
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![SoundZone-desktop home page](image.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+##### Featured products
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![SoundZone-desktop Featured products](image-1.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+##### Top products
 
-## Learn More
+![SoundZone-desktop Top products based on catogery](image-2.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+##### All Products Sorting and Filtering
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![SoundZone-desktop All Products Sorting and Filtering](image-3.png)
 
-### Code Splitting
+##### Products Detail Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![SoundZone-desktop Products Detail Page](image-4.png)
+![SoundZone-desktop Products Detail Page](image-5.png)
 
-### Analyzing the Bundle Size
+##### Cart Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![SoundZone-desktop Cart Page](image-6.png)
 
-### Making a Progressive Web App
+#### Mobile responsive
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Mobile responsive](image-8.png)
 
-### Advanced Configuration
+### Links
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Live Site URL: []
 
-### Deployment
+## Built with
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- HTML
+- CSS
+- JavaScript
+- React
+- React Swiper
+- React Router
+- React Context API
